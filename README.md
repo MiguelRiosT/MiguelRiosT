@@ -26,8 +26,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=miguelrios&show_icons=true&theme=github_dark&hide=issues&count_private=true&hide_rank=false" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrios&layout=compact&theme=github_dark" height="160"/>
 </p>
-
-### 🔗 Encuéntrame en:
-<p align="center">
-  <a href="mailto:miguel.rios@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
