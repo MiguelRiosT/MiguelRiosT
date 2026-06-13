@@ -27,3 +27,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=miguelrios&show_icons=true&theme=github_dark&hide=issues&count_private=true&hide_rank=false" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrios&layout=compact&theme=github_dark" height="160"/>
 </p>
+
+---
+
+### 📫 Let's connect!
+<p align="center">
+  <a href="mailto:miguelriostangarife@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-rios-809449267/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
