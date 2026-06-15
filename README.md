@@ -34,6 +34,7 @@
 ### 🏆 Certifications & Languages
 * **SAP Certified Associate:** Back-End Developer - ABAP Cloud
 * **English:** C1 Advanced (Aptis General)
+* **Spanish:** Native
 
 ---
 
