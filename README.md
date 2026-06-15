@@ -25,7 +25,7 @@
 ### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miguelrios&show_icons=true&theme=github_dark&hide=issues&count_private=true&hide_rank=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrios&layout=compact&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRiosT&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 ---
